@@ -93,6 +93,14 @@ Revenue/Store rose and fell by the identical percentage as Total Revenue in all 
 
 ### 3️⃣Market & Product Contribution
 
+#### *Snapshot Q4 2016*
+
+<img width="985" height="256" alt="image" src="https://github.com/user-attachments/assets/941c9708-8094-4639-8cc2-be1e67eda093" />
+
+#### *Snapshot H1 2017*
+
+<img width="984" height="257" alt="image" src="https://github.com/user-attachments/assets/e7d5d941-1a25-47a3-b5f2-210f0caaf870" />
+
 ### 📌 Analysis 1. Country Revenue Contribution
 Despite the differing time ranges (Q4 2016 vs. six months in H1 2017), Germany consistently leads total revenue contribution across all markets in both periods, driven by top performance in most categories, including Meat, Dry, Clothing, Frozen and Household. Germany trails slightly behind France and the UK only in Delivery, but this gap is too small to affect its overall lead. Given its scale and consistency across nearly every category, Germany stands out as the strongest market for continued investment
 
@@ -102,3 +110,18 @@ Despite the differing time ranges, Meat remains the top revenue generating categ
 Non Food|Others category shows zero revenue across all 11 markets in both periods, this is unlikely to reflect genuine zero demand and more likely points to a data quality issue (an inactive category or mapping gap) that should be verified before drawing conclusions. Similarly, Belgium shows zero Delivery revenue in both periods while every other market reports some level of activity, suggesting Delivery may not have been offered in Belgium during this timeframe rather than a demand issue
 
 Hardware and Household consistently rank as the lowest performing active categories across nearly every market, with no significant outliers by country. This is consistent with the store's grocery led format - customers prioritize food categories over durable/non-food goods, which is expected behavior rather than a concern
+
+### Recommendation
+### 1. Capitalize on seasonal demand (Nov-Dec)
+Nov - Dec 2016 revenue spike appears driven by seasonal demand (likely holiday related) rather than extended opening hours or pricing changes. Inventory, staffing, and marketing campaigns should be planned earlier to maximize this peak window, particularly for the Meat category.
+### 2. Double down on the Meat category
+Meat leads revenue in nearly every market across both periods, making it the clear priority for continued investment - supply, shelf space and promotions while also being closely monitored, as it's the category most responsible for driving overall revenue swings
+### 3. Prioritize Germany as the core growth market
+Germany leads revenue across most categories and remains consistent across periods, positioning it as the strongest candidate for further investment - additional stores, extended hours or expanded assortment before scaling efforts to other markets
+### 4. Diagnose low contributing markets before investing (e.g. Denmark, Belgium)
+Before allocating more budget, confirm why these markets underperform - fewer stores, smaller store area, shorter opening hours or genuinely lower local demand. Benchmark them against a similarly sized but better performing market (e.g. Netherlands, Sweden) on the same store attributes to isolate the real gap and pilot any adjustment (e.g. extended hours at a few stores) before scaling. Note that Germany's scale skews comparisons - the goal is checking underperformance relative to each market's own potential, not forcing parity with Germany.
+### 5. Investigate the January post holiday drop
+While the drop appears to be a natural post-holiday correction, further investigation is needed to confirm contributing factors (e.g. leftover inventory from December, early-year spending pullback) to better manage this seasonal dip in future cycles.
+Resolve data quality issues before further analysis
+### 6. Deprioritize Hardware & Household expansion
+These categories consistently rank lowest but remain active across all markets, consistent with the store's grocery led format. Maintain minimal viable stock rather than expanding investment here, if underperformance persists, consider reallocating their shelf space toward higher demand food categories like Meat
