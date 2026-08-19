@@ -90,3 +90,15 @@ Meat remained the top performing category throughout all three months and mirror
 
 ### 📌 Analysis 4. Revenue per Store tracks Total Revenue exactly
 Revenue/Store rose and fell by the identical percentage as Total Revenue in all three months (12.9%, 30.6%, -43.3%), indicating the number of active stores stayed constant across this period, the swing is purely a same-store demand effect, not a result of stores opening or closing
+
+### 3️⃣Market & Product Contribution
+
+### 📌 Analysis 1. Country Revenue Contribution
+Despite the differing time ranges (Q4 2016 vs. six months in H1 2017), Germany consistently leads total revenue contribution across all markets in both periods, driven by top performance in most categories, including Meat, Dry, Clothing, Frozen and Household. Germany trails slightly behind France and the UK only in Delivery, but this gap is too small to affect its overall lead. Given its scale and consistency across nearly every category, Germany stands out as the strongest market for continued investment
+
+### 📌 Analysis 2. Product Contribution
+Despite the differing time ranges, Meat remains the top revenue generating category in virtually every market across both periods, reflecting consistent customer demand regardless of country. This makes Meat the clearest category level priority, not just a Germany specific trend, but a demand pattern that holds globally
+
+Non Food|Others category shows zero revenue across all 11 markets in both periods, this is unlikely to reflect genuine zero demand and more likely points to a data quality issue (an inactive category or mapping gap) that should be verified before drawing conclusions. Similarly, Belgium shows zero Delivery revenue in both periods while every other market reports some level of activity, suggesting Delivery may not have been offered in Belgium during this timeframe rather than a demand issue
+
+Hardware and Household consistently rank as the lowest performing active categories across nearly every market, with no significant outliers by country. This is consistent with the store's grocery led format - customers prioritize food categories over durable/non-food goods, which is expected behavior rather than a concern
