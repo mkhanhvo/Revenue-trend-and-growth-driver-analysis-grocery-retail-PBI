@@ -65,3 +65,28 @@ Across every country, Meat consistently outperforms other categories, confirming
 #### Germany vs. Denmark
 Germany contributes the highest revenue across the entire period, while Denmark consistently sits at the opposite end, contributing the least in nearly every month. Since revenue is largely driven by sales volume, Denmark's lower unit sales rather than pricing and appear to be the main factor behind its weaker revenue contribution
 
+### 2️⃣Operational Factors
+
+#### *Monthly Snapshot - Nov 2016*
+
+<img width="1568" height="621" alt="image" src="https://github.com/user-attachments/assets/694903b4-e8bb-4df7-9fd9-3a37e09c4bc8" />
+
+#### *Monthly Snapshot - Dec 2016*
+
+<img width="1568" height="630" alt="image" src="https://github.com/user-attachments/assets/d19d0e02-bc2a-4469-8df4-4e4f9ff5528a" />
+
+#### *Monthly Snapshot - Jan 2017*
+
+<img width="1568" height="625" alt="image" src="https://github.com/user-attachments/assets/5fad7a88-f41f-4796-9eab-51006e3f2438" />
+
+### 📌 Analysis 1. Revenue & Volume Correlation
+Total revenue and total sold units moved in near perfect lockstep across Nov 2016 – Jan 2017 (+12.9%/+14.3%, +30.6%/+27.2%, then -43.3%/-40.4%), confirming revenue changes in this period were volume driven, not price driven. Since both metrics rose and fell together at the same magnitude and direction, the shift in customer demand is the primary lever behind revenue performance
+
+### 📌 Analysis 2. Opening Hours Moves Inversely to Demand
+Notably, opening hours decreased in both Nov (-3.0%) and Dec (-5.5%), the two months revenue peaked, then increased in Jan (+9.1%), the month revenue collapsed. This inverse relationship rules out more hours open as the driver of the Nov - Dec surge and also rules out fewer hours open as the cause of the Jan crash. It reinforces that the swing is demand driven, most likely a seasonal, holiday driven spike in Nov - Dec followed by a natural post holiday correction in January, rather than an operational or capacity issue
+
+### 📌 Analysis 3. Category Level Consistency
+Meat remained the top performing category throughout all three months and mirrored the same swing pattern as total revenue, spiking in December alongside the aggregate trend, then pulling back sharply in January across every major market (Germany, UK, France, Italy) at a similar pace. This uniform movement across markets and the leading category further confirms the driver is systemic/seasonal rather than isolated to one product line or region
+
+### 📌 Analysis 4. Revenue per Store tracks Total Revenue exactly
+Revenue/Store rose and fell by the identical percentage as Total Revenue in all three months (12.9%, 30.6%, -43.3%), indicating the number of active stores stayed constant across this period, the swing is purely a same-store demand effect, not a result of stores opening or closing
