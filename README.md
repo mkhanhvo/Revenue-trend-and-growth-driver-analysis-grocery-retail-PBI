@@ -47,7 +47,7 @@ The U.S. based retail company operating across 11 markets offers a mix of food a
 
 ## 📊 Key Insights & Visualizations
 
-### 1️⃣ Revenue & Trend Summary
+### 1️⃣ Revenue Trend Summary & Operational Factors
 
 <img width="819" height="539" alt="image" src="https://github.com/user-attachments/assets/262e3087-6309-48fc-a529-7aece93fe1dc" />
 
@@ -64,8 +64,6 @@ Across every country, Meat consistently outperforms other categories, confirming
 
 #### Germany vs. Denmark
 Germany contributes the highest revenue across the entire period, while Denmark consistently sits at the opposite end, contributing the least in nearly every month. Since revenue is largely driven by sales volume, Denmark's lower unit sales rather than pricing and appear to be the main factor behind its weaker revenue contribution
-
-### 2️⃣Operational Factors
 
 #### *Monthly Snapshot - Nov 2016*
 
@@ -91,7 +89,7 @@ Meat remained the top performing category throughout all three months and mirror
 #### 📌 Analysis 4. Revenue per Store tracks Total Revenue exactly
 Revenue/Store rose and fell by the identical percentage as Total Revenue in all three months (12.9%, 30.6%, -43.3%), indicating the number of active stores stayed constant across this period, the swing is purely a same-store demand effect, not a result of stores opening or closing
 
-### 3️⃣Market & Product Contribution
+#### 📌 Analysis 5. Market & Product Contribution
 
 #### *Snapshot Q4 2016*
 
@@ -101,10 +99,10 @@ Revenue/Store rose and fell by the identical percentage as Total Revenue in all 
 
 <img width="984" height="257" alt="image" src="https://github.com/user-attachments/assets/e7d5d941-1a25-47a3-b5f2-210f0caaf870" />
 
-#### 📌 Analysis 1. Country Revenue Contribution
+#### Country Revenue Contribution
 Despite the differing time ranges (Q4 2016 vs. six months in H1 2017), Germany consistently leads total revenue contribution across all markets in both periods, driven by top performance in most categories, including Meat, Dry, Clothing, Frozen and Household. Germany trails slightly behind France and the UK only in Delivery, but this gap is too small to affect its overall lead. Given its scale and consistency across nearly every category, Germany stands out as the strongest market for continued investment
 
-#### 📌 Analysis 2. Product Contribution
+#### Product Contribution
 Despite the differing time ranges, Meat remains the top revenue generating category in virtually every market across both periods, reflecting consistent customer demand regardless of country. This makes Meat the clearest category level priority, not just a Germany specific trend, but a demand pattern that holds globally
 
 Non Food|Others category shows zero revenue across all 11 markets in both periods, this is unlikely to reflect genuine zero demand and more likely points to a data quality issue (an inactive category or mapping gap) that should be verified before drawing conclusions. Similarly, Belgium shows zero Delivery revenue in both periods while every other market reports some level of activity, suggesting Delivery may not have been offered in Belgium during this timeframe rather than a demand issue
@@ -124,4 +122,53 @@ Before allocating more budget, confirm why these markets underperform - fewer st
 While the drop appears to be a natural post-holiday correction, further investigation is needed to confirm contributing factors (e.g. leftover inventory from December, early-year spending pullback) to better manage this seasonal dip in future cycles.
 Resolve data quality issues before further analysis
 #### 6. Deprioritize Hardware & Household expansion
-These categories consistently rank lowest but remain active across all markets, consistent with the store's grocery led format. Maintain minimal viable stock rather than expanding investment here, if underperformance persists, consider reallocating their shelf space toward higher demand food categories like Meat
+These categories consistently rank lowest but remain active across all markets, consistent with the store's grocery led format. Maintain minimal viable stock rather than expanding investment here, if underperformance persists, consider relocating their shelf space toward higher demand food categories like Meat
+
+### 2️⃣ Diagnosing Revenue Drivers
+
+#### *Snapshot Nov 2016 - Ramp Up Period*
+<img width="1289" height="924" alt="image" src="https://github.com/user-attachments/assets/6260de8d-1118-4f9a-8b3a-c1133f6a8acb" />
+
+#### *Snapshot Dec 2016 - Peak Period*
+<img width="1302" height="924" alt="image" src="https://github.com/user-attachments/assets/7734f80d-6165-4fac-807c-1a85f259911d" />
+
+#### *Snapshot Jan 2017 - Sharp Correction*
+<img width="1300" height="924" alt="image" src="https://github.com/user-attachments/assets/edbe17a1-a2d4-44a7-b73b-c56af9e19e95" />
+
+#### *Snapshot Apr 2017 - Steady State*
+<img width="1295" height="924" alt="image" src="https://github.com/user-attachments/assets/994b8642-3bb1-411b-8d9b-8f40a1019542" />
+
+This analysis diagnoses which store level attributes actually drive revenue contribution, moving from market and category view into store by store lens. It compares Above Average and Below Average stores across store type, opening hours, both own and leased, store size, department mix and service composition in order to isolate which factors show a meaningful relationship with performance and which ones don't
+
+### 📌 Analysis 1. Which operational factors actually drive revenue
+Across all four months (Nov, Dec, Jan, Apr), regardless of whether it was a peak or a crash period, Hours Own consistently shows a strong, stable linear relationship with revenue, making it the most reliable factor in this analysis. Hours Lease, by contrast, shows no clear relationship in any month with data points scattered randomly and no discernible trend. Store Size also shows a consistent positive relationship, with larger stores tending to skew toward the Above Average group. Since total opening hours (own plus leased combined) remains fairly flat, the key insight is that more hours open doesn't matter, it's specifically hours under direct operation that does
+
+### 📌 Analysis 2. A System Wide Seasonal Cycle
+All three operating hour schemes, Type A, B and C move in the exact same seasonal rhythm, rising in December, dropping sharply in January and stabilizing again from April, despite the large gap in store counts across types (Type A has 37 stores, Type B has 12 and Type C only a handful). The fact that all three groups react identically to the same period, combined with the earlier finding that total opening hours isn't the main driver indicates that operating hour scheme is neither the cause of nor the fix for this swing and the pattern is purely a seasonal demand shift affecting the whole system evenly
+
+Looking at quadrant chart of Revenue Growth versus Total Sale Units in January 2017, growth flips from positive to negative, ranging from -20% to -80% across every category at once, confirming this is a system-wide shock rather than an issue tied to any single product
+
+### 📌 Analysis 3. Category performance through growth vs. volume lens
+
+#### *Category performance in Nov 2016*
+<img width="269" height="205" alt="image" src="https://github.com/user-attachments/assets/d78aa645-71c4-441d-864b-32d9fb606cc4" />
+
+#### *Category performance in Dec 2016*
+<img width="268" height="204" alt="image" src="https://github.com/user-attachments/assets/8d498fd6-30a2-47e5-bde0-1216027193fd" />
+
+#### *Category performance in Jan 2017*
+<img width="266" height="202" alt="image" src="https://github.com/user-attachments/assets/26edbd58-fc58-4685-86c3-fb4334b275d8" />
+
+#### *Category performance in Apr 2017*
+<img width="268" height="203" alt="image" src="https://github.com/user-attachments/assets/585e1768-abc7-4d99-9e10-011d0f49ffa8" />
+
+Mapping each category into the four quadrants (high or low volume crossed with high or low growth) produces a fairly consistent pattern across months:
+- High volume, strong growth (star performers): Meat in most months, joined by Dry and Fish in Dec and Apr
+- Low volume, strong growth (small but promising): Household and Fruits & Vegetables show up repeatedly here
+- High volume, stalling growth (worth watching): Meat specifically in Dec 2016, exactly the month total revenue peaked, its growth flattened to near zero despite volume staying highest, signaling a saturation point at peak demand. Dry falls into this same quadrant in Jan 2017
+- Low volume, weak growth (underperformers on both fronts): Clothing, Frozen, Hardware, and Delivery consistently cluster here in Nov, Dec and Apr
+
+Notably, Household despite often sitting in the promising quadrant is also the most volatile category during the crash, swinging to -80% in Jan 2017, making it both attractive and risky
+
+### 📌 Analysis 4. What separates high- and low-performing stores
+The Revenue Concentration Shift is consistent across all four periods: Above Average stores carry a higher share of Dry, Clothing, Frozen, Fish and Food|Others while Below Average stores lean more heavily on Delivery, Household and Hardware. Notably, Meat despite always being the top selling category is not what distinguishes the two groups - its share flips sign from month to month, since nearly every store sells Meat about equally well. The real difference lies in how diversified a store's category mix is, not how much Meat it sells
