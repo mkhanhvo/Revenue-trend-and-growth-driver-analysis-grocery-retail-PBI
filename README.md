@@ -127,16 +127,16 @@ These categories consistently rank lowest but remain active across all markets, 
 ### 2️⃣ Diagnosing Revenue Drivers
 
 #### *Snapshot Nov 2016 - Ramp Up Period*
-<img width="1289" height="924" alt="image" src="https://github.com/user-attachments/assets/6260de8d-1118-4f9a-8b3a-c1133f6a8acb" />
+<img width="764" height="545" alt="image" src="https://github.com/user-attachments/assets/0456cf5c-3af1-4a0e-9674-14f686bb728f" />
 
 #### *Snapshot Dec 2016 - Peak Period*
-<img width="1302" height="924" alt="image" src="https://github.com/user-attachments/assets/7734f80d-6165-4fac-807c-1a85f259911d" />
+<img width="763" height="542" alt="image" src="https://github.com/user-attachments/assets/bc4050bb-e1f0-4afb-b489-66c05186c295" />
 
 #### *Snapshot Jan 2017 - Sharp Correction*
-<img width="1300" height="924" alt="image" src="https://github.com/user-attachments/assets/edbe17a1-a2d4-44a7-b73b-c56af9e19e95" />
+<img width="763" height="542" alt="image" src="https://github.com/user-attachments/assets/b99743d9-0cc0-4693-a68b-d45a81598e1e" />
 
 #### *Snapshot Apr 2017 - Steady State*
-<img width="1295" height="924" alt="image" src="https://github.com/user-attachments/assets/994b8642-3bb1-411b-8d9b-8f40a1019542" />
+<img width="767" height="543" alt="image" src="https://github.com/user-attachments/assets/dd251bcc-098e-442b-b1fd-7df91e18d9ed" />
 
 This analysis diagnoses which store level attributes actually drive revenue contribution, moving from market and category view into store by store lens. It compares Above Average and Below Average stores across store type, opening hours, both own and leased, store size, department mix and service composition in order to isolate which factors show a meaningful relationship with performance and which ones don't
 
