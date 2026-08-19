@@ -141,7 +141,7 @@ These categories consistently rank lowest but remain active across all markets, 
 This analysis diagnoses which store level attributes actually drive revenue contribution, moving from market and category view into store by store lens. It compares Above Average and Below Average stores across store type, opening hours, both own and leased, store size, department mix and service composition in order to isolate which factors show a meaningful relationship with performance and which ones don't
 
 ### 📌 Analysis 1. Which operational factors actually drive revenue
-Across all four months (Nov, Dec, Jan, Apr), regardless of whether it was a peak or a crash period, Hours Own consistently shows a strong, stable linear relationship with revenue, making it the most reliable factor in this analysis. Hours Lease, by contrast, shows no clear relationship in any month with data points scattered randomly and no discernible trend. Store Size also shows a consistent positive relationship, with larger stores tending to skew toward the Above Average group. Since total opening hours (own plus leased combined) remains fairly flat, the key insight is that more hours open doesn't matter, it's specifically hours under direct operation that does
+Across all four periods (Nov, Dec, Jan, Apr), regardless of whether it was a peak or a crash period, Hours Own consistently shows a strong, stable linear relationship with revenue, making it the most reliable factor in this analysis. Hours Lease, by contrast, shows no clear relationship in any month with data points scattered randomly and no discernible trend. Store Size also shows a consistent positive relationship, with larger stores tending to skew toward the Above Average group. Since total opening hours (own plus leased combined) remains fairly flat, the key insight is that more hours open doesn't matter, it's specifically hours under direct operation that does
 
 ### 📌 Analysis 2. A System Wide Seasonal Cycle
 All three operating hour schemes, Type A, B and C move in the exact same seasonal rhythm, rising in December, dropping sharply in January and stabilizing again from April, despite the large gap in store counts across types (Type A has 37 stores, Type B has 12 and Type C only a handful). The fact that all three groups react identically to the same period, combined with the earlier finding that total opening hours isn't the main driver indicates that operating hour scheme is neither the cause of nor the fix for this swing and the pattern is purely a seasonal demand shift affecting the whole system evenly
@@ -170,5 +170,17 @@ Mapping each category into the four quadrants (high or low volume crossed with h
 
 Notably, Household despite often sitting in the promising quadrant is also the most volatile category during the crash, swinging to -80% in Jan 2017, making it both attractive and risky
 
-### 📌 Analysis 4. What separates high- and low-performing stores
-The Revenue Concentration Shift is consistent across all four periods: Above Average stores carry a higher share of Dry, Clothing, Frozen, Fish and Food|Others while Below Average stores lean more heavily on Delivery, Household and Hardware. Notably, Meat despite always being the top selling category is not what distinguishes the two groups - its share flips sign from month to month, since nearly every store sells Meat about equally well. The real difference lies in how diversified a store's category mix is, not how much Meat it sells
+### 📌 Analysis 4. What separates high and low performing stores
+#### *Category revenue concentration shift in Nov 2016*
+<img width="707" height="203" alt="image" src="https://github.com/user-attachments/assets/0ccbc15d-b01d-4e25-907d-b68d1c8343b4" />
+
+#### *Category revenue concentration shift in Dec 2016*
+<img width="706" height="203" alt="image" src="https://github.com/user-attachments/assets/30632deb-31bc-4e81-bfda-2e7c9d8c0d74" />
+
+#### *Category revenue concentration shift in Jan 2017*
+<img width="704" height="203" alt="image" src="https://github.com/user-attachments/assets/5e275e40-8a34-4d53-ad6a-06ca1042c6e8" />
+
+#### *Category revenue concentration shift in Apr 2017*
+<img width="705" height="200" alt="image" src="https://github.com/user-attachments/assets/ffe85016-73f6-4e1c-ab16-1a755e10dacb" />
+
+Revenue concentration shift is consistent across all four periods: Above Average stores carry a higher share of Dry, Clothing, Frozen, Fish and Food|Others while Below Average stores lean more heavily on Delivery, Household and Hardware. Notably, Meat despite always being the top selling category is not what distinguishes the two groups - its share flips sign from month to month, since nearly every store sells Meat about equally well. The real difference lies in how diversified a store's category mix is, not how much Meat it sells
