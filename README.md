@@ -47,6 +47,8 @@ The U.S. based retail company operating across 11 markets offers a mix of food a
 
 ## 📊 Key Insights & Visualizations
 
+### 1️⃣ Revenue & Trend Summary
+
 <img width="819" height="539" alt="image" src="https://github.com/user-attachments/assets/262e3087-6309-48fc-a529-7aece93fe1dc" />
 
 Total revenue reached $7.4B, generated from 2B units sold across all markets. Revenue climbed through Q4 2016, peaked in December, then dropped sharply in early 2017 before stabilizing at a lower, consistent level through mid-2017. Average revenue per store stands at $148.9M, with stores collectively operating 160K opening hours across the period
@@ -62,3 +64,4 @@ Across every country, Meat consistently outperforms other categories, confirming
 
 #### Germany vs. Denmark
 Germany contributes the highest revenue across the entire period, while Denmark consistently sits at the opposite end, contributing the least in nearly every month. Since revenue is largely driven by sales volume, Denmark's lower unit sales rather than pricing and appear to be the main factor behind its weaker revenue contribution
+
