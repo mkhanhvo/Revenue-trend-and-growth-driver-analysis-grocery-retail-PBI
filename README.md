@@ -45,3 +45,20 @@ The U.S. based retail company operating across 11 markets offers a mix of food a
 
 <img width="256" height="545" alt="image" src="https://github.com/user-attachments/assets/acbe1f12-8369-4616-b6f3-9c65d8babe71" />
 
+## 📊 Key Insights & Visualizations
+
+<img width="819" height="539" alt="image" src="https://github.com/user-attachments/assets/262e3087-6309-48fc-a529-7aece93fe1dc" />
+
+Total revenue reached $7.4B, generated from 2B units sold across all markets. Revenue climbed through Q4 2016, peaked in December, then dropped sharply in early 2017 before stabilizing at a lower, consistent level through mid-2017. Average revenue per store stands at $148.9M, with stores collectively operating 160K opening hours across the period
+
+#### Regional trend
+The December downturn wasn't isolated to a single market since nearly all countries recorded a similar drop around the same time, suggesting a shared external driver (seasonal demand shift, pricing or supply issue) rather than a market specific problem
+
+#### Product performance
+Most product categories tracked closely with the overall revenue trend but Meat stood out as an outlier, its performance swings appear to be the main driver behind the broader sales dip, making it the category to investigate first
+
+#### Market view
+Across every country, Meat consistently outperforms other categories, confirming it as the most in demand product and a strong candidate for further investment. However, Meat also saw the sharpest decline at the end of 2016 and has yet to recover, which is likely dragging overall revenue down with it
+
+#### Germany vs. Denmark
+Germany contributes the highest revenue across the entire period, while Denmark consistently sits at the opposite end, contributing the least in nearly every month. Since revenue is largely driven by sales volume, Denmark's lower unit sales rather than pricing and appear to be the main factor behind its weaker revenue contribution
