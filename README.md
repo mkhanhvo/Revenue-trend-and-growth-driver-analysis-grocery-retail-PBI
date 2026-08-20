@@ -53,7 +53,7 @@ The U.S. based retail company operating across 11 markets offers a mix of food a
 
 <img width="819" height="539" alt="image" src="https://github.com/user-attachments/assets/262e3087-6309-48fc-a529-7aece93fe1dc" />
 
-Total revenue reached $7.4B, generated from 2B units sold across all markets. Revenue climbed through Q4 2016, peaked in December, then dropped sharply in early 2017 before stabilizing at a lower, consistent level through mid-2017. Average revenue per store stands at $148.9M, with stores collectively operating 160K opening hours across the period
+Total revenue reached $7.4B, generated from 2B units sold across all markets. Revenue climbed through Q4 2016, peaked in December then dropped sharply in early 2017 before stabilizing at a lower, consistent level through mid 2017. Average revenue per store stands at $148.9M with stores collectively operating 160K opening hours across the period
 
 #### Regional trend
 The December downturn wasn't isolated to a single market since nearly all countries recorded a similar drop around the same time, suggesting a shared external driver (seasonal demand shift, pricing or supply issue) rather than a market specific problem
@@ -80,7 +80,7 @@ Germany contributes the highest revenue across the entire period, while Denmark 
 <img width="1568" height="625" alt="image" src="https://github.com/user-attachments/assets/5fad7a88-f41f-4796-9eab-51006e3f2438" />
 
 #### 📌 Analysis 1. Revenue & Volume Correlation
-Total revenue and total sold units moved in near perfect lockstep across Nov 2016 – Jan 2017 (+12.9%/+14.3%, +30.6%/+27.2%, then -43.3%/-40.4%), confirming revenue changes in this period were volume driven, not price driven. Since both metrics rose and fell together at the same magnitude and direction, the shift in customer demand is the primary lever behind revenue performance
+Total revenue and total sold units moved in near perfect lockstep across Nov 2016 – Jan 2017 (+12.9%/+14.3%, +30.6%/+27.2%, then -43.3%/-40.4%), confirming revenue changes in this period were volume driven. Since both metrics rose and fell together at the same magnitude and direction, the shift in customer demand is the primary lever behind revenue performance
 
 #### 📌 Analysis 2. Opening Hours Moves Inversely to Demand
 Notably, opening hours decreased in both Nov (-3.0%) and Dec (-5.5%), the two months revenue peaked, then increased in Jan (+9.1%), the month revenue collapsed. This inverse relationship rules out more hours open as the driver of the Nov - Dec surge and also rules out fewer hours open as the cause of the Jan crash. It reinforces that the swing is demand driven, most likely a seasonal, holiday driven spike in Nov - Dec followed by a natural post holiday correction in January, rather than an operational or capacity issue
