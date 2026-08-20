@@ -1,3 +1,5 @@
+<img width="1200" height="844" alt="image" src="https://github.com/user-attachments/assets/c773c638-4de3-4771-ac4c-3a830f437933" />
+
 ## 📊 Revenue Trend & Growth Driver Analysis | Grocery Retail | Power BI
 
 ### Author: Vo Tran Mai Khanh
