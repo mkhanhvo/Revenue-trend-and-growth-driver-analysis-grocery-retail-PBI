@@ -77,7 +77,7 @@ Germany contributes the highest revenue across the entire period, while Denmark 
 
 <img width="1568" height="625" alt="image" src="https://github.com/user-attachments/assets/5fad7a88-f41f-4796-9eab-51006e3f2438" />
 
-### 📌 Analysis 1. Revenue & Volume Correlation
+#### 📌 Analysis 1. Revenue & Volume Correlation
 Total revenue and total sold units moved in near perfect lockstep across Nov 2016 – Jan 2017 (+12.9%/+14.3%, +30.6%/+27.2%, then -43.3%/-40.4%), confirming revenue changes in this period were volume driven, not price driven. Since both metrics rose and fell together at the same magnitude and direction, the shift in customer demand is the primary lever behind revenue performance
 
 #### 📌 Analysis 2. Opening Hours Moves Inversely to Demand
@@ -125,6 +125,7 @@ Resolve data quality issues before further analysis
 These categories consistently rank lowest but remain active across all markets, consistent with the store's grocery led format. Maintain minimal viable stock rather than expanding investment here, if underperformance persists, consider relocating their shelf space toward higher demand food categories like Meat
 
 ### 2️⃣ Diagnosing Revenue Drivers
+### 2.1 Period view
 
 #### *Snapshot Nov 2016 - Ramp Up Period*
 <img width="764" height="545" alt="image" src="https://github.com/user-attachments/assets/0456cf5c-3af1-4a0e-9674-14f686bb728f" />
@@ -140,15 +141,15 @@ These categories consistently rank lowest but remain active across all markets, 
 
 This analysis diagnoses which store level attributes actually drive revenue contribution, moving from market and category view into store by store lens. It compares Above Average and Below Average stores across store type, opening hours, both own and leased, store size, department mix and service composition in order to isolate which factors show a meaningful relationship with performance and which ones don't
 
-### 📌 Analysis 1. Which operational factors actually drive revenue
+#### 📌 Analysis 1. Which operational factors actually drive revenue
 Across all four periods (Nov, Dec, Jan, Apr), regardless of whether it was a peak or a crash period, Hours Own consistently shows a strong, stable linear relationship with revenue, making it the most reliable factor in this analysis. Hours Lease, by contrast, shows no clear relationship in any month with data points scattered randomly and no discernible trend. Store Size also shows a consistent positive relationship, with larger stores tending to skew toward the Above Average group. Since total opening hours (own plus leased combined) remains fairly flat, the key insight is that more hours open doesn't matter, it's specifically hours under direct operation that does
 
-### 📌 Analysis 2. A System Wide Seasonal Cycle
+#### 📌 Analysis 2. A System Wide Seasonal Cycle
 All three operating hour schemes, Type A, B and C move in the exact same seasonal rhythm, rising in December, dropping sharply in January and stabilizing again from April, despite the large gap in store counts across types (Type A has 37 stores, Type B has 12 and Type C only a handful). The fact that all three groups react identically to the same period, combined with the earlier finding that total opening hours isn't the main driver indicates that operating hour scheme is neither the cause of nor the fix for this swing and the pattern is purely a seasonal demand shift affecting the whole system evenly
 
 Looking at quadrant chart of Revenue Growth versus Total Sale Units in January 2017, growth flips from positive to negative, ranging from -20% to -80% across every category at once, confirming this is a system-wide shock rather than an issue tied to any single product
 
-### 📌 Analysis 3. Category performance through growth vs. volume lens
+#### 📌 Analysis 3. Category performance through growth vs. volume lens
 
 #### *Category performance in Nov 2016*
 <img width="269" height="205" alt="image" src="https://github.com/user-attachments/assets/d78aa645-71c4-441d-864b-32d9fb606cc4" />
@@ -170,7 +171,7 @@ Mapping each category into the four quadrants (high or low volume crossed with h
 
 Notably, Household despite often sitting in the promising quadrant is also the most volatile category during the crash, swinging to -80% in Jan 2017, making it both attractive and risky
 
-### 📌 Analysis 4. What separates high and low performing stores
+#### 📌 Analysis 4. What separates high and low performing stores
 #### *Category revenue concentration shift in Nov 2016*
 <img width="707" height="203" alt="image" src="https://github.com/user-attachments/assets/0ccbc15d-b01d-4e25-907d-b68d1c8343b4" />
 
@@ -184,3 +185,23 @@ Notably, Household despite often sitting in the promising quadrant is also the m
 <img width="705" height="200" alt="image" src="https://github.com/user-attachments/assets/ffe85016-73f6-4e1c-ab16-1a755e10dacb" />
 
 Revenue concentration shift is consistent across all four periods: Above Average stores carry a higher share of Dry, Clothing, Frozen, Fish and Food|Others while Below Average stores lean more heavily on Delivery, Household and Hardware. Notably, Meat despite always being the top selling category is not what distinguishes the two groups - its share flips sign from month to month, since nearly every store sells Meat about equally well. The real difference lies in how diversified a store's category mix is, not how much Meat it sells
+
+### 2.2 Market View
+#### 📌 Analysis 1. Benchmarking Against the Top Market at Equal Scale
+
+#### *Top market deep dive - Germany*
+<img width="767" height="544" alt="image" src="https://github.com/user-attachments/assets/9df9a187-b69a-460d-a95a-9b318697806f" />
+
+#### *Equal scale market deep dive - France*
+<img width="764" height="544" alt="image" src="https://github.com/user-attachments/assets/c9d85526-a2b4-4094-a873-365d6ea7b4c4" />
+
+#### *Equal scale market deep dive - UK*
+<img width="764" height="544" alt="image" src="https://github.com/user-attachments/assets/016792bd-30a4-4af7-89d9-d4bfc0f29dbf" />
+
+Germany, France and the UK operate at the same scale (6 stores each) and Germany consistently generates the highest revenue among the three. Since store count, Hours Own and Store Size all show the same pattern and relationship with sales across all three markets, none of these operational factors explain the gap. The real differentiator lies in how revenue is distributed across categories between each market's Above and Below Average stores
+
+In Germany, Meat's revenue share is nearly identical between Above and Below Average stores, meaning Meat isn't what separates strong stores from weak ones. Instead, high performing German stores carry a noticeably larger share of secondary categories, particularly Clothing, Delivery and Fish. Germany's advantage comes from a more diversified category mix, not from selling more Meat
+
+France and the UK show the opposite pattern. In both markets, Meat's share is significantly higher in Above Average stores than in Below Average ones, five percentage points in France and over eight in the UK, meaning their top performing stores are leaning heavily on Meat to outperform, while underperforming stores lack that same category strength and have little else to compensate with.
+
+The UK carries an additional structural drag: Delivery service share is nearly ten percentage points lower in Above Average stores than in Below Average ones, the widest gap of any category across all three markets. This suggests Delivery is disproportionately concentrated in the UK's weaker stores, potentially pulling down their overall performance rather than contributing positively
