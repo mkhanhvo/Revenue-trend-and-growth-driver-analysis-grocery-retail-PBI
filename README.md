@@ -205,3 +205,32 @@ In Germany, Meat's revenue share is nearly identical between Above and Below Ave
 France and the UK show the opposite pattern. In both markets, Meat's share is significantly higher in Above Average stores than in Below Average ones, five percentage points in France and over eight in the UK, meaning their top performing stores are leaning heavily on Meat to outperform, while underperforming stores lack that same category strength and have little else to compensate with.
 
 The UK carries an additional structural drag: Delivery service share is nearly ten percentage points lower in Above Average stores than in Below Average ones, the widest gap of any category across all three markets. This suggests Delivery is disproportionately concentrated in the UK's weaker stores, potentially pulling down their overall performance rather than contributing positively
+
+#### 📌 Analysis 2. Benchmarking Within Equal Size Markets
+
+#### *Equal scale market deep dive - Sweden*
+<img width="763" height="547" alt="image" src="https://github.com/user-attachments/assets/2f225844-23b7-403e-9ed3-5a702c04cec0" />
+
+#### *Equal scale market deep dive - Belgium*
+<img width="764" height="543" alt="image" src="https://github.com/user-attachments/assets/5f8aed27-51ba-4075-9579-c6391e06c596" />
+
+Both markets operate with 3 stores each, Hours Own and Store Size relationships remain just as linear in both so these aren't what separates these two markets. The real difference shows up in the category mix between each market's Above and Below Average stores, and in Belgium that pattern looks unusual compared to every other market analyzed so far
+
+The strongest differentiator in Sweden is Hardware at -1.75%, leaning toward the Below Average group while every other category shows only a small gap. Meat is essentially neutral at +0.68%, meaning it's carried about equally by both store groups. Overall, the gap between Sweden's strong and weak stores isn't especially sharp
+
+On the other hand, in Belgium, Meat shows a strongly negative association at -3.31%, meaning the underperforming store actually carries a higher Meat share than the top performing stores, the reverse of what's seen in every other market where Meat tends to be neutral or positive. Clothing follows the same negative direction at -1.47%. Meanwhile, Belgium's top performing stores stand out through Dry at +1.76%, Frozen at +1.40%, Fruits & Vegetables at +0.71% and Food|Others at +0.52%, the same category diversification pattern seen earlier in Germany just showing up more sharply here. Belgium's weak store appears to be leaning almost entirely on Meat without having built out complementary categories, while Belgium's own top performing stores have already figured that out. In other words, Belgium isn't lacking potential, one of its own three stores proves the diversification formula works, it just hasn't been carried over to the rest
+
+*A note on reliability: since Belgium only has 3 stores total, 2 Above Average and 1 Below Average, this entire gap is driven by a single underperforming store. The conclusion is directional rather than statistically robust,and warrants a closer look at that specific store before acting on it broadly*
+
+### 🔎 Recommendation
+
+#### What France and the UK should do to close the gap with Germany
+- Reduce over reliance on Meat as the sole differentiator. Both markets should identify which secondary categories, following Germany's pattern with Clothing, Delivery and Fish have room to grow in their underperforming stores rather than concentrating further investment in Meat alone
+- Diversify category mix in Below Average stores specifically. Since the gap shows up mainly in how Below Average stores are missing a broader category base, initiatives like expanded shelf space, bundling or promotions for secondary categories should be piloted in the weakest stores first, not applied evenly across the market
+- UK market should investigate Delivery's role in underperforming stores. Given the unusually large negative association between Delivery and store performance in UK specifically, this warrants a closer look whether Delivery is cannibalizing in store sales, carries disproportionate operating costs or is simply concentrated in the wrong locations before deciding whether to scale it back or restructure it
+- Use Germany as the internal benchmark, not just an aspirational target. Since all three markets share the same store count and show similar Hours Own and Store Size patterns, Germany's category mix can realistically be treated as a replicable playbook for France and UK rather than an outcome tied to scale or operational advantages they don't have
+
+#### What Belgium should do
+- Replicate the category formula from its Above Average stores in the underperforming one. Specifically, increase investment or shelf space in Dry, Frozen and Fruits & Vegetables at the weak store rather than continuing to lean on Meat
+- Investigate why the weak store is dependent on Meat product in the first place. This could stem from limited shelf space, supply chain constraints or location specific factors preventing category expansion, and the root cause should be identified before applying a fix
+- Audit that specific underperforming store directly. Given the tiny sample size, the priority should be a store level deep dive, location, nearby competition, local customer profile rather than relying solely on category level insight
