@@ -111,7 +111,7 @@ Non Food|Others category shows zero revenue across all 11 markets in both period
 
 Hardware and Household consistently rank as the lowest performing active categories across nearly every market, with no significant outliers by country. This is consistent with the store's grocery led format - customers prioritize food categories over durable/non-food goods, which is expected behavior rather than a concern
 
-### Recommendation
+### 🔎 Recommendation
 #### 1. Capitalize on seasonal demand (Nov-Dec)
 Nov - Dec 2016 revenue spike appears driven by seasonal demand (likely holiday related) rather than extended opening hours or pricing changes. Inventory, staffing, and marketing campaigns should be planned earlier to maximize this peak window, particularly for the Meat category.
 #### 2. Double down on the Meat category
